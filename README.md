@@ -21,6 +21,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
 </picture>
 
+<p align="center"><img src="docs/social-preview.jpeg" alt="Online Banking System — Angular, .NET C#, SQL" width="720"/></p>
+
 A comprehensive full-stack online banking application. Built with **Angular** on the frontend and **.NET C# backend services** over **SQL**, it serves thousands of users with account management, fund transfers, transaction history, and statement generation — secured with role-based access control across customer and admin interfaces.
 
 ---
