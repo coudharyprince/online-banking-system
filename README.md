@@ -120,14 +120,7 @@ Database queries and application performance were profiled and optimized at scal
 
 **Prince Kumar**
 
-<a href="mailto:prince.kr991@outlook.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge"/>
-  <img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge"/>
-</picture></a>
-<a href="tel:+917808501582"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Phone-1a1b27?style=for-the-badge"/>
-  <img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge"/>
-</picture></a>
+[GitHub profile](https://github.com/coudharyprince)
 
 ---
 
