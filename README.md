@@ -23,7 +23,7 @@
 
 <p align="center"><img src="docs/social-preview.jpeg" alt="Online Banking System — Angular, .NET C#, SQL" width="720"/></p>
 
-A comprehensive full-stack online banking application. Built with **Angular** on the frontend and **.NET C# backend services** over **SQL**, it serves thousands of users with account management, fund transfers, transaction history, and statement generation — secured with role-based access control across customer and admin interfaces.
+A full-stack online banking application project built with **Angular** on the frontend, **.NET C# backend services**, and **SQL**. It explores common banking workflows such as account management, fund transfers, transaction history, and customer/admin interfaces.
 
 ---
 
@@ -34,8 +34,7 @@ A comprehensive full-stack online banking application. Built with **Angular** on
 - **Transaction History & Statements** — browse past transactions and generate account statements
 - **Role-Based Access Control (RBAC)** — secure authentication and authorization across **customer** and **admin** interfaces
 - **Responsive UI** — Angular Material components delivering a seamless experience across desktop and mobile devices
-- **Banking-Grade Security** — authentication and authorization mechanisms implemented in line with banking security standards and data protection regulations
-- **Performance** — database query and application performance optimization delivering **25% faster page loads**
+- **Security concepts** — role-based access and server-side validation are included as part of the application design
 
 ---
 
@@ -104,15 +103,9 @@ online-banking-system/
 
 ## 🔐 Security Notes
 
-- **Role-based access control** keeps the customer and admin experiences strictly separated — every interface is protected by the user's role
-- **Secure authentication and authorization** mechanisms are applied end to end, following banking security standards and data protection regulations
-- Sensitive operations (transfers, statement generation) are validated server-side by the .NET backend services
+This repository demonstrates application-level security concepts, including customer/admin roles and server-side validation for sensitive operations. It is an educational project and should **not** be treated as a production banking platform or used with real customer or financial data.
 
----
-
-## ⚡ Performance
-
-Database queries and application performance were profiled and optimized at scale — the platform serves thousands of users with **25% faster page loads** and a measurably smoother user experience.
+Performance figures and production-scale usage metrics are not claimed in this README; benchmark results should only be added when they can be reproduced and documented.
 
 ---
 
